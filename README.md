@@ -7,7 +7,7 @@ Created by : <br>
   -Dina
 
 Modified by: <br>
-  - AKbar Wahyu Maulana <br>
+  - Akbar Wahyu Maulana <br>
   - Alpaber Pardomuan Tambunan <br>
   - ELfrida Tenti Nurlela <br>
   - Muhamad Rafiansyah 
