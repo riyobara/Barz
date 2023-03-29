@@ -241,7 +241,7 @@
                         </div>
                         <div class="teks">
                             <h3 class="job-desk">Anggota 1</h3>
-                            <p>Alpber Pardomuan Tambunan</p>
+                            <p>Alpaber Pardomuan Tambunan</p>
                             <p>Program erorr aja ku perbaiki, apalagi hubungan kita</p>
                         </div>
                     </div>
@@ -254,7 +254,7 @@
                             </div>
                         </div>
                         <div class="teks">
-                            <h3 class="job-desk">Anggota 4</h3>
+                            <h3 class="job-desk">Anggota 2</h3>
                             <p>Muhamad Rafiansyah</p>
                             <p>Ngode in program mah ngasih harapan, kalau kamu mah enggak</p>
                         </div>
@@ -268,7 +268,7 @@
                             </div>
                         </div>
                         <div class="teks">
-                            <h3 class="job-desk">Anggota 2</h3>
+                            <h3 class="job-desk">Anggota 3</h3>
                             <p>Elfrida Tenti Nurlela</p>
                             <p>Kalau kamu bingung mau ngetik apa, bagusnya sih lorem ipsum aja</p>
                         </div>
